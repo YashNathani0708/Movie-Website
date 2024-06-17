@@ -11,3 +11,8 @@ If yes, use JavaScript's window.location.href property to redirect the user to "
 
 <img width="1425" alt="Screenshot 2024-06-17 at 6 33 12 PM" src="https://github.com/YashNathani0708/Movie-Website/assets/130681687/9316c8fe-1ab4-4f79-b6d3-a970cc0b8f92">
 
+
+
+
+
+<img width="1440" alt="Screenshot 2024-06-17 at 6 33 57 PM 2" src="https://github.com/YashNathani0708/Movie-Website/assets/130681687/78298940-4fce-4ff2-83bc-f679e1ce3819">
